@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image", "Image\Image\Image.csproj", "{255099F2-4E47-48BC-9AA1-42CA0F305D3C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ImageContent", "Image\ImageContent\ImageContent.contentproj", "{045AF111-71C2-4792-9B99-30F6D23D80CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255099F2-4E47-48BC-9AA1-42CA0F305D3C}.Debug|x86.ActiveCfg = Debug|x86
+		{255099F2-4E47-48BC-9AA1-42CA0F305D3C}.Debug|x86.Build.0 = Debug|x86
+		{255099F2-4E47-48BC-9AA1-42CA0F305D3C}.Release|x86.ActiveCfg = Release|x86
+		{255099F2-4E47-48BC-9AA1-42CA0F305D3C}.Release|x86.Build.0 = Release|x86
+		{045AF111-71C2-4792-9B99-30F6D23D80CA}.Debug|x86.ActiveCfg = Debug|x86
+		{045AF111-71C2-4792-9B99-30F6D23D80CA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

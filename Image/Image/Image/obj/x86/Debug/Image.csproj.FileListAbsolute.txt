@@ -1,0 +1,6 @@
+C:\Users\Derrell\Desktop\ACC School Projects\Game Sim\Image\Image\Image\bin\x86\Debug\Image.exe
+C:\Users\Derrell\Desktop\ACC School Projects\Game Sim\Image\Image\Image\bin\x86\Debug\Image.pdb
+C:\Users\Derrell\Desktop\ACC School Projects\Game Sim\Image\Image\Image\obj\x86\Debug\Image.csprojResolveAssemblyReference.cache
+C:\Users\Derrell\Desktop\ACC School Projects\Game Sim\Image\Image\Image\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Derrell\Desktop\ACC School Projects\Game Sim\Image\Image\Image\obj\x86\Debug\Image.exe
+C:\Users\Derrell\Desktop\ACC School Projects\Game Sim\Image\Image\Image\obj\x86\Debug\Image.pdb
